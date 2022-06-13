@@ -1,0 +1,12 @@
+menu de navegación en el centro.
+
+secciones:
+
+	Quizás una ventana emergente pidiendo los datos para que el dueño contacte el cliente, con ello si se quiere hacer una campaña de marketing se tendrían varios correos o numeros de celulares para hacerlo.
+	Header
+	descripcion del negocio 
+	servicios que ofrece 
+	galería de imagenes
+	Opiniones de clientes
+	Sección de contacto
+	footer
